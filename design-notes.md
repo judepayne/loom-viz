@@ -6,12 +6,6 @@ the graph (any loom graph) and a cluster graph (a Loom digraph)
 
 then:
 
-node->descriptor
-
-edge->descriptor
-
-cluster->descriptor
-
 node->cluster
 
 graph-defaults - a map
