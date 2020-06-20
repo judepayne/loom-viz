@@ -1,0 +1,11 @@
+{:paths ["src"]
+ :deps {org.clojure/clojure             {:mvn/version "1.10.1"}
+	tool-belt                       {:mvn/version "0.1.1"}
+        rhizome-cljc                    {:mvn/version "0.1.2"}
+        aysylu/loom                     {:mvn/version "1.0.2"}
+        org.clojure/data.xml            {:mvn/version "0.2.0-alpha6"}
+	org.clojure/data.zip            {:mvn/version "1.0.0"}
+        org.clojure/math.combinatorics  {:mvn/version "0.1.4"}
+	instaparse                      {:mvn/version "1.4.10"}
+        clj-sql-pred                    {:mvn/version "0.1.9"}
+        extra-loom                      {:mvn/version "0.1.6"}}}
